@@ -9,3 +9,7 @@
 1. First item que cada archivo tendra por titulo el día que se realizo, ejemplo: domingo03/23.py.
 2. Second item en README estara el enunciado y en el archivo .py estara la solución del ejercicio.
 3. Third item Si deseas aportar una nueva forma de solución dejalo comentado.
+
+###Ejercicio básico miercoles04/23.py
+
+1.    Realice un ejercicio donde se muerte en pantalla lo que contiene la variable de "a" puede elegir cualquier frase o enunciado.
